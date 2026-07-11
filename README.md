@@ -89,13 +89,17 @@ The system consists of:
 
 ### Working Setup
 
-<img width="400" height="600" alt="image" src="https://github.com/user-attachments/assets/b3248221-6abe-4d8e-b79d-dc838184a65c" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/b3248221-6abe-4d8e-b79d-dc838184a65c" />
 
 ### Location Status
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/c4033847-648c-4b48-995e-6e9ae5954a4a" />
 
+### ThingSpeak Cloud Dashboard
+<img width="1423" height="1600" alt="image" src="https://github.com/user-attachments/assets/07abd736-4e95-4d05-a9c5-c14b30981460" />
+
+
 ### Web Server
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a4bd3ac8-72db-4cff-a205-8d79078ba7cb" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/a4bd3ac8-72db-4cff-a205-8d79078ba7cb" />
 
 
 ---
