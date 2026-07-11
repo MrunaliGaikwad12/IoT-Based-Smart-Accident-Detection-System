@@ -49,7 +49,7 @@ The system consists of:
  
  ADXL345 - Accident and vibration detection 
  
- Vibraation Sensor - Vibration detection
+ Vibration Sensor - Vibration detection
  
  GPS Module - Location tracking 
  
