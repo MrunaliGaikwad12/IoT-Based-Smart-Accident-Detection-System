@@ -32,7 +32,7 @@ The system consists of:
 **Sensors → ESP32 Processing Unit → IoT Cloud → Emergency Monitoring**
 
 
-- Vibraation Sensor sense vibration of vehicles
+- Vibration Sensor sense vibration of vehicles
 - ADXL345 detects acceleration changes
 - ESP32 processes sensor data
 - GPS provides accident location
