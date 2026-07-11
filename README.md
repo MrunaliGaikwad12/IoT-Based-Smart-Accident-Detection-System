@@ -83,12 +83,18 @@ The system consists of:
 
   📷 𝐏𝐫𝐨𝐭𝐨𝐭𝐲𝐩𝐞 𝐈𝐦𝐚𝐠𝐞𝐬
 
+### Hardware Prototype
+
+<img width="700" height="720" alt="600" src="https://github.com/user-attachments/assets/aa0ed7cb-1eae-4ec0-bcc9-57fb9f37f38e" />
+
+### Working Setup
+
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/b3248221-6abe-4d8e-b79d-dc838184a65c" />
 
+### Location Status
 <img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/c4033847-648c-4b48-995e-6e9ae5954a4a" />
 
-
-
+### Web Server
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a4bd3ac8-72db-4cff-a205-8d79078ba7cb" />
 
 
