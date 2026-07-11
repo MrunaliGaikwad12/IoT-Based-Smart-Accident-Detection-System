@@ -28,7 +28,9 @@ In emergency situations, delayed accident detection and lack of immediate medica
  🏗️ 𝐒𝐲𝐬𝐭𝐞𝐦 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞
 
 The system consists of:
+
 **Sensors → ESP32 Processing Unit → IoT Cloud → Emergency Monitoring**
+
 
 - Vibraation Sensor sense vibration of vehicles
 - ADXL345 detects acceleration changes
