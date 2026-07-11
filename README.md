@@ -42,11 +42,17 @@ The system consists of:
  🔧 𝐇𝐚𝐫𝐝𝐰𝐚𝐫𝐞 𝐂𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭𝐬
    
  Components & Purpose :
+ 
  ESP32 - Main processing and Wi-Fi communication 
+ 
  ADXL345 - Accident and vibration detection 
+ 
  Vibraation Sensor - Vibration detection
+ 
  GPS Module - Location tracking 
- LCD Display - System status display 
+ 
+ LCD Display - System status display
+ 
  Buzzer - Alert indication 
 
 ---
@@ -75,9 +81,11 @@ The system consists of:
 
   📷 𝐏𝐫𝐨𝐭𝐨𝐭𝐲𝐩𝐞 𝐈𝐦𝐚𝐠𝐞𝐬
 
-<img width="716" height="940" alt="image" src="https://github.com/user-attachments/assets/b3248221-6abe-4d8e-b79d-dc838184a65c" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c4033847-648c-4b48-995e-6e9ae5954a4a" />
-<img width="1600" height="938" alt="image" src="https://github.com/user-attachments/assets/a4bd3ac8-72db-4cff-a205-8d79078ba7cb" />
+<img width="500" height="600" alt="image" src="https://github.com/user-attachments/assets/b3248221-6abe-4d8e-b79d-dc838184a65c" />
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/c4033847-648c-4b48-995e-6e9ae5954a4a" />
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a4bd3ac8-72db-4cff-a205-8d79078ba7cb" />
 
 
 ---
